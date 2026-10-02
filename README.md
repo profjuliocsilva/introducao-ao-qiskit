@@ -1,6 +1,14 @@
 # introducao-ao-qiskit
 Material complementar do livro Introdução ao Qiskit
 
+Os notebooks desta página reproduzem e ampliam os exemplos apresentados no livro.
+
+## Como utilizar
+
+Não é necessário instalar Python ou Qiskit no computador.
+
+Clique em **Open in Colab**, aguarde a abertura do Google Colab e execute inicialmente a célula de preparação do ambiente.
+
 # Introdução ao Qiskit — Material complementar
 
 Material complementar do livro **Introdução ao Qiskit**.
